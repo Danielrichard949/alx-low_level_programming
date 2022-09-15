@@ -1,11 +1,12 @@
 #include "main.h"
+
 /**
  *Print_alphabet - Entry point
- *Return: 0
+ *Returnet:0
  */
 void print_alphabet(void)
 {
-	char = 'a'
+	char c = 'a';
 
 	while (c <= 'z')
 	{
